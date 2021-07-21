@@ -1,0 +1,15 @@
+// configuration file for autocomplete servers with CoC in nvim
+
+// HTML5 SERVER
+{
+"html.enable": true,
+"html.execArgv": [],
+"html.format.enable": true,
+"html.format.wrapLineLength": 120,
+"html.format.unformatted": "wbr",
+"html.suggest.html5": true,
+"html.autoClosingTags": true,
+"html.validate.html": true,
+"html.validate.scripts": true,
+"html.format.wrapAttributes": "auto",
+}
